@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="tests.Listener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="tests.aboutus">
+        <methods>
+          <include name="aboutusmenuclick"/>
+          <include name="invokeDriver"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.aboutus -->
+      <class name="tests.newcars">
+        <methods>
+          <include name="invokeDriver"/>
+          <include name="newcarsmenuclick"/>
+          <include name="closeAllBrowser"/>
+        </methods>
+      </class> <!-- tests.newcars -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

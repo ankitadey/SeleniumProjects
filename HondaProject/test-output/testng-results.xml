@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="193126" started-at="2019-06-04T09:14:03Z" finished-at="2019-06-04T09:17:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="193126" started-at="2019-06-04T09:14:03Z" finished-at="2019-06-04T09:17:16Z">
+      <class name="tests.SellCarExcelReading">
+        <test-method status="PASS" signature="invokeDriver()[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="invokeDriver" is-config="true" duration-ms="50279" started-at="2019-06-04T14:44:03Z" finished-at="2019-06-04T14:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeDriver -->
+        <test-method status="PASS" signature="sellmenuclick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="sellmenuclick" duration-ms="24716" started-at="2019-06-04T14:44:54Z" data-provider="testdata" finished-at="2019-06-04T14:45:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aston Martin DBS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6 L V12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[*Required]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Reg No Required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellmenuclick -->
+        <test-method status="PASS" signature="sellmenuclick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="sellmenuclick" duration-ms="22892" started-at="2019-06-04T14:45:18Z" data-provider="testdata" finished-at="2019-06-04T14:45:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manufacture year]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Make Model]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Variant]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[*Required]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Man Year Required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellmenuclick -->
+        <test-method status="PASS" signature="sellmenuclick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="sellmenuclick" duration-ms="23580" started-at="2019-06-04T14:45:41Z" data-provider="testdata" finished-at="2019-06-04T14:46:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2018]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Make Model]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Variant]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[*Required]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Make Model Required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellmenuclick -->
+        <test-method status="PASS" signature="sellmenuclick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="sellmenuclick" duration-ms="23521" started-at="2019-06-04T14:46:05Z" data-provider="testdata" finished-at="2019-06-04T14:46:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aston Martin DBS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Variant]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[*Required]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Variant Required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellmenuclick -->
+        <test-method status="PASS" signature="sellmenuclick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="sellmenuclick" duration-ms="24797" started-at="2019-06-04T14:46:28Z" data-provider="testdata" finished-at="2019-06-04T14:46:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aston Martin DBS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6 L V12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[*Required]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Kms Required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellmenuclick -->
+        <test-method status="PASS" signature="sellmenuclick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="sellmenuclick" duration-ms="18944" started-at="2019-06-04T14:46:53Z" data-provider="testdata" finished-at="2019-06-04T14:47:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aston Martin DBS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6 L V12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellmenuclick -->
+        <test-method status="PASS" signature="personaldetailspagevalidate()[pri:0, instance:tests.SellCarExcelReading@2b98378d]" name="personaldetailspagevalidate" duration-ms="3573" started-at="2019-06-04T14:47:12Z" finished-at="2019-06-04T14:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personaldetailspagevalidate -->
+      </class> <!-- tests.SellCarExcelReading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

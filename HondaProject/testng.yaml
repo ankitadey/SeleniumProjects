@@ -1,0 +1,9 @@
+name: Suite
+configFailurePolicy: skip
+listeners:
+  - tests.TestListener
+tests:
+  - name: Test
+    classes:
+      - tests.aboutus
+
